@@ -1,4 +1,8 @@
-
+/*
+Name: Muiruri Elias 
+Reg no:CT100/G/26169/25
+Description: program for net pay for workers 
+    */
 #include <stdio.h>
 
 int main() {
